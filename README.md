@@ -3,7 +3,7 @@ Robotic prosthetic hand designed and programmed as part of my senior design proj
 
 Full documentation can be found inside the documentation folder.
 
-Prototype demo has been included insidede the images folder and can also be seen at the following link:
+Prototype demo has been included inside the images folder and can also be seen at the following link:
 
 https://youtu.be/iOiWRI1O0RI
 
