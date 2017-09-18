@@ -1,5 +1,7 @@
 # RoboticHand
-Robotic prosthetic hand designed and programmed as part of my senior design project.
+Robotic prosthetic hand designed and programmed as part of my senior design project (CSUS Spring 2016).
+
+The following is the draft of our project proposal:
 
 Team Members:
 Espinoza, Jesus; Gonzales, Jorge; Guzman, Omar; Ladesma, MarcoAntonio
@@ -18,7 +20,7 @@ At the end of the project, we hope to have a fully functioning prosthetic roboti
 
 Time Factors
 
-We would like to start with the research of this project as soon as possible. Documentation of the hardware as well as the software design will need to implemented as soon as possible in order to complete the project. The end of the semester is coming near and we would like to have a completed budget in the following week.
+We would like to start with the research of this project as soon as possible. Documentation of the hardware as well as the software design will need to be implemented as soon as possible in order to complete the project. The end of the semester is coming near and we would like to have a completed budget in the following week.
 
 Project Assumptions and Constraints
 
