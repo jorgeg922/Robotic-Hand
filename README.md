@@ -1,6 +1,12 @@
 # RoboticHand
 Robotic prosthetic hand designed and programmed as part of my senior design project (CSUS Spring 2016).
 
+Full documentation can be found inside the documentation folder.
+
+Prototype demo has been included inisde the images folder.
+
+
+
 The following is the draft of our project proposal:
 
 Team Members:
